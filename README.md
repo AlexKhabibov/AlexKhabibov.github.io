@@ -40,6 +40,10 @@
           width="40" height="40" />
       </a>
       <a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" alt="vite"
+          width="40" height="40" />
+      </a>
+      <a>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman"
           width="40" height="40" />
       </a>
