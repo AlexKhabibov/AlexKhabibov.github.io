@@ -1,4 +1,4 @@
-<p align="">
+<p align="center">
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" />
